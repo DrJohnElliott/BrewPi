@@ -1,5 +1,6 @@
 # Johns BrewPi Information
-## BrewPi legacy software informatinon
+## BrewPi legacy software information
+## Information from Docs.BrewPi.com  ## http://www.instructables.com/id/Multiple-Fermentation-Chamber-Control-with-BrewPi/?ALLSTEPS
 
 
 sudo apt-get update
